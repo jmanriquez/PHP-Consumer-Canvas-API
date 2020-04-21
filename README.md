@@ -1,4 +1,4 @@
-# **PHPgit  CONSUMER CANVAS API**
+# **PHP CONSUMER CANVAS API**
 Script PHP para realizar llamadas a la API de el LMS Canvas por medio de la autentificación por token.
 
 ## #  Instalación
