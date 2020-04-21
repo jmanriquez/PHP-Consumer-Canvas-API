@@ -1,4 +1,4 @@
-# **PHP CONSUMER CANVAS API**
+# **PHPgit  CONSUMER CANVAS API**
 Script PHP para realizar llamadas a la API de el LMS Canvas por medio de la autentificación por token.
 
 ## #  Instalación
@@ -8,10 +8,12 @@ Script PHP para realizar llamadas a la API de el LMS Canvas por medio de la aute
 4. 
 
 ## #  Ejemplo de archivo config.php
-
+```bash
 <?php
 
 global $access_key, $host;
 
 $host = "https://TU_DOMINIO_INSTANCIA_DE_CANVAS.instructure.com";
 $access_key = "AQUI_TU_API_KEY";
+
+```
